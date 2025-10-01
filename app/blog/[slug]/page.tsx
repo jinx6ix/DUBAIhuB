@@ -65,12 +65,12 @@ export default function BlogPostPage({ params }: { params: Promise<{ slug: strin
       name: "Dubai Service Hub",
       logo: {
         "@type": "ImageObject",
-        url: "https://dubaiservicehub.ae/logo.png",
+        url: "https://duba-ihu-b.vercel.app/logo.png",
       },
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://dubaiservicehub.ae/blog/${post.slug}`,
+      "@id": `https://duba-ihu-b.vercel.app/blog/${post.slug}`,
     },
     keywords: post.keywords.join(", "),
   }
@@ -82,11 +82,11 @@ export default function BlogPostPage({ params }: { params: Promise<{ slug: strin
         <title>{`${post.title[language]} | Dubai Service Hub Blog`}</title>
         <meta name="description" content={post.excerpt[language]} />
         <meta name="keywords" content={post.keywords.join(", ")} />
-        <link rel="canonical" href={`https://dubaiservicehub.ae/blog/${post.slug}`} />
+        <link rel="canonical" href={`https://duba-ihu-b.vercel.app/blog/${post.slug}`} />
         <meta property="og:title" content={post.title[language]} />
         <meta property="og:description" content={post.excerpt[language]} />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content={`https://dubaiservicehub.ae/blog/${post.slug}`} />
+        <meta property="og:url" content={`https://duba-ihu-b.vercel.app/blog/${post.slug}`} />
         <meta property="og:image" content={post.image} />
         <meta property="article:published_time" content={post.publishedDate} />
         <meta property="article:author" content={post.author[language]} />

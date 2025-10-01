@@ -38,11 +38,11 @@ export default function BlogPage() {
           name="keywords"
           content="Dubai services blog, household tips Dubai, childcare advice Dubai, salon tips Dubai, cleaning tips, nanny guide, beauty services Dubai"
         />
-        <link rel="canonical" href="https://dubaiservicehub.ae/blog" />
+        <link rel="canonical" href="https://duba-ihu-b.vercel.app/blog" />
         <meta property="og:title" content={t.blog.metaTitle} />
         <meta property="og:description" content={t.blog.heroDescription} />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://dubaiservicehub.ae/blog" />
+        <meta property="og:url" content="https://duba-ihu-b.vercel.app/blog" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={t.blog.metaTitle} />
         <meta name="twitter:description" content={t.blog.heroDescription} />

@@ -18,7 +18,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://dubaiservicehub.ae"),
+  metadataBase: new URL("https://duba-ihu-b.vercel.app/"),
   title: {
     default: "Dubai Service Hub | Hourly Workers & Salon Services in Dubai",
     template: "%s | Dubai Service Hub",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_AE",
-    url: "https://dubaiservicehub.ae",
+    url: "https://duba-ihu-b.vercel.app/",
     title: "Dubai Service Hub | Hourly Workers & Salon Services in Dubai",
     description:
       "Premium hourly worker services in Dubai. Hire professional cleaners, cooks, nannies, and childcare specialists. Expert salon services at your doorstep.",
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: "your-google-verification-code",
+    google: "hFLRkNLTiWW_pvLuqqXe-gZjop_3rJtLqKtpuxkByMc",
   },
 }
 
@@ -84,17 +84,18 @@ export default function RootLayout({
   return (
     <html className={`${playfair.variable} ${inter.variable}`} suppressHydrationWarning>
       <head>
-        <link rel="canonical" href="https://dubaiservicehub.ae" />
+        <link rel="canonical" href="https://duba-ihu-b.vercel.app/" />
+        <meta name="google-site-verification" content="hFLRkNLTiWW_pvLuqqXe-gZjop_3rJtLqKtpuxkByMc" />
         <Suspense fallback={null}>
           <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{
               __html: JSON.stringify({
-                "@context": "https://schema.org",
+                "@context": "https://duba-ihu-b.vercel.app/",
                 "@type": "LocalBusiness",
                 name: "Dubai Service Hub",
                 description: "Premium hourly worker and salon services in Dubai",
-                url: "https://dubaiservicehub.ae",
+                url: "https://duba-ihu-b.vercel.app/",
                 telephone: "+971-XX-XXX-XXXX",
                 address: {
                   "@type": "PostalAddress",

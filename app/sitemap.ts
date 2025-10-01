@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next"
 import { blogPosts } from "@/lib/blog-data"
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://dubaiservicehub.ae"
+  const baseUrl = "https://duba-ihu-b.vercel.app/"
 
   // Static pages
   const staticPages = [

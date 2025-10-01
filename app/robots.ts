@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: ["/api/", "/admin/"],
     },
-    sitemap: "https://dubaiservicehub.ae/sitemap.xml",
+    sitemap: "https://duba-ihu-b.vercel.app/sitemap.xml",
   }
 }
