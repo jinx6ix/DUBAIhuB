@@ -105,13 +105,13 @@ export function Footer() {
                   rel="noopener noreferrer"
                   className="hover:text-accent transition-colors"
                 >
-                  +971 52 198 5893
+                  +254 576 629 68
                 </a>
               </li>
               <li className="flex items-center space-x-2">
                 <Phone className="h-5 w-5 flex-shrink-0" />
-                <a href="tel:+971521985893" className="hover:text-accent transition-colors">
-                  +971 52 198 5893
+                <a href="tel:+25457662968" className="hover:text-accent transition-colors">
+                  +254 576 629 68
                 </a>
               </li>
               <li className="flex items-center space-x-2">

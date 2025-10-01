@@ -222,7 +222,7 @@ export default function ContactPage() {
                             rel="noopener noreferrer"
                             className="text-sm text-muted-foreground hover:text-primary"
                           >
-                            +971 52 198 5893
+                            +254 576 629 68
                           </a>
                         </div>
                       </div>
@@ -230,8 +230,8 @@ export default function ContactPage() {
                         <Phone className="h-5 w-5 text-primary flex-shrink-0 mt-0.5" />
                         <div>
                           <p className="font-medium text-sm">{t.contact.phone}</p>
-                          <a href="tel:+971521985893" className="text-sm text-muted-foreground hover:text-primary">
-                            +971 52 198 5893
+                          <a href="tel:+25457662968" className="text-sm text-muted-foreground hover:text-primary">
+                            +254 576 629 68
                           </a>
                         </div>
                       </div>

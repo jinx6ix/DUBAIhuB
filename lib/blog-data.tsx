@@ -91,7 +91,7 @@ export const blogPosts: BlogPost[] = [
 </ul>
 
 <h2>Book Your Professional Cleaning Service Today</h2>
-<p>Ready to experience the benefits of professional cleaning? Contact us on WhatsApp at +971 52 198 5893 to book verified, professional cleaners in Altown, Almajaz, Dubai, or Sharjah. Starting from just AED 35/hour with same-day availability.</p>`,
+<p>Ready to experience the benefits of professional cleaning? Contact us on WhatsApp at +254 57662968 to book verified, professional cleaners in Altown, Almajaz, Dubai, or Sharjah. Starting from just AED 35/hour with same-day availability.</p>`,
       ar: `<h2>لماذا تهم خدمات التنظيف المحترفة في دبي</h2>
 <p>العيش في دبي يعني التعامل مع الغبار والرمال المستمرة وتحديات الحفاظ على منزل نظيف في مناخ صحراوي. أصبحت خدمات التنظيف المحترفة ضرورية للعائلات في الطوار والمجاز ودبي والشارقة الذين يريدون الحفاظ على بيئة معيشية صحية ونظيفة دون التضحية بوقتهم الثمين.</p>
 
@@ -136,7 +136,7 @@ export const blogPosts: BlogPost[] = [
 </ul>
 
 <h2>احجز خدمة التنظيف المحترفة اليوم</h2>
-<p>هل أنت مستعد لتجربة فوائد التنظيف المحترف؟ اتصل بنا على واتساب على +971 52 198 5893 لحجز عمال تنظيف معتمدين ومحترفين في الطوار أو المجاز أو دبي أو الشارقة. ابتداءً من 35 درهم فقط في الساعة مع توفر في نفس اليوم.</p>`,
+<p>هل أنت مستعد لتجربة فوائد التنظيف المحترف؟ اتصل بنا على واتساب على +25457662968 لحجز عمال تنظيف معتمدين ومحترفين في الطوار أو المجاز أو دبي أو الشارقة. ابتداءً من 35 درهم فقط في الساعة مع توفر في نفس اليوم.</p>`,
     },
     image: "/professional-cleaners-cleaning-modern-dubai-home.jpg",
     imageAlt: {
@@ -285,7 +285,7 @@ export const blogPosts: BlogPost[] = [
 </ul>
 
 <h2>Book a Verified Nanny Today</h2>
-<p>Ready to find the perfect nanny for your family? Contact us on WhatsApp at +971 52 198 5893 to book experienced, verified nannies in Altown, Almajaz, Dubai, or Sharjah. Starting from AED 35/hour with flexible scheduling and same-day availability.</p>`,
+<p>Ready to find the perfect nanny for your family? Contact us on WhatsApp at +25457662968 to book experienced, verified nannies in Altown, Almajaz, Dubai, or Sharjah. Starting from AED 35/hour with flexible scheduling and same-day availability.</p>`,
       ar: `<h2>أهمية اختيار المربية المناسبة</h2>
 <p>العثور على مربية موثوقة وجديرة بالثقة في دبي أو الشارقة هو أحد أهم القرارات التي ستتخذها كوالد. تعتمد سلامة أطفالك وتطورهم وسعادتهم على جودة الرعاية التي يتلقونها. سيساعدك هذا الدليل الشامل على التنقل في عملية العثور على المربية المثالية لعائلتك في الطوار أو المجاز أو دبي أو الشارقة.</p>
 
@@ -394,7 +394,7 @@ export const blogPosts: BlogPost[] = [
 </ul>
 
 <h2>احجز مربية معتمدة اليوم</h2>
-<p>هل أنت مستعد للعثور على المربية المثالية لعائلتك؟ اتصل بنا على واتساب على +971 52 198 5893 لحجز مربيات ذوات خبرة ومعتمدات في الطوار أو المجاز أو دبي أو الشارقة. ابتداءً من 35 درهم/ساعة مع جدولة مرنة وتوفر في نفس اليوم.</p>`,
+<p>هل أنت مستعد للعثور على المربية المثالية لعائلتك؟ اتصل بنا على واتساب على +25457662968 لحجز مربيات ذوات خبرة ومعتمدات في الطوار أو المجاز أو دبي أو الشارقة. ابتداءً من 35 درهم/ساعة مع جدولة مرنة وتوفر في نفس اليوم.</p>`,
     },
     image: "/professional-nanny-caring-for-children-in-dubai-ho.jpg",
     imageAlt: {
@@ -591,7 +591,7 @@ export const blogPosts: BlogPost[] = [
 </ul>
 
 <h2>Book Your At-Home Salon Service Today</h2>
-<p>Ready to experience the luxury and convenience of professional salon services at home? Contact us on WhatsApp at +971 52 198 5893 to book certified hair stylists in Altown, Almajaz, Dubai, or Sharjah. Flexible hourly rates and same-day availability for most services.</p>`,
+<p>Ready to experience the luxury and convenience of professional salon services at home? Contact us on WhatsApp at +25457662968 to book certified hair stylists in Altown, Almajaz, Dubai, or Sharjah. Flexible hourly rates and same-day availability for most services.</p>`,
       ar: `<h2>صعود خدمات التجميل في المنزل في دبي</h2>
 <p>تشهد صناعة التجميل في دبي تحولاً كبيراً. يكتشف المهنيون المشغولون والأمهات وأي شخص يقدر وقته الراحة والفخامة لخدمات الصالون في المنزل. لا مزيد من الازدحام المروري أو غرف الانتظار أو المواعيد المتسرعة - خدمات التجميل المحترفة تأتي إليك الآن.</p>
 
@@ -748,7 +748,7 @@ export const blogPosts: BlogPost[] = [
 </ul>
 
 <h2>احجز خدمة الصالون في المنزل اليوم</h2>
-<p>هل أنت مستعد لتجربة الفخامة والراحة لخدمات الصالون المحترفة في المنزل؟ اتصل بنا على واتساب على +971 52 198 5893 لحجز مصففي شعر معتمدين في الطوار أو المجاز أو دبي أو الشارقة. أسعار مرنة بالساعة وتوفر في نفس اليوم لمعظم الخدمات.</p>`,
+<p>هل أنت مستعد لتجربة الفخامة والراحة لخدمات الصالون المحترفة في المنزل؟ اتصل بنا على واتساب على +25457662968 لحجز مصففي شعر معتمدين في الطوار أو المجاز أو دبي أو الشارقة. أسعار مرنة بالساعة وتوفر في نفس اليوم لمعظم الخدمات.</p>`,
     },
     image: "/professional-hair-stylist-providing-salon-services.jpg",
     imageAlt: {

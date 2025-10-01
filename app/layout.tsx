@@ -96,7 +96,7 @@ export default function RootLayout({
                 name: "Dubai Service Hub",
                 description: "Premium hourly worker and salon services in Dubai",
                 url: "https://duba-ihu-b.vercel.app/",
-                telephone: "+971-XX-XXX-XXXX",
+                telephone: "+254 57662968",
                 address: {
                   "@type": "PostalAddress",
                   addressLocality: "Dubai",
